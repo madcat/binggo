@@ -1,10 +1,14 @@
 fetch daily bing.com home page image as wallpaper.
 
 Usage of bingwp:
+
   -copy
-    	whether to print copyright info at bottom. (requires graphicsmagick)
+
+    whether to print copyright info at bottom. (requires graphicsmagick)
+
   -dir string
-    	directory downloaded images are saved (default "/Users/yourname")
+
+    directory downloaded images are saved (default "/Users/yourname")
 
 images are saved as yyyymmdd.jpg.
 
